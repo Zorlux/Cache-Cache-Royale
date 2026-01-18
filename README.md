@@ -268,7 +268,6 @@
                 credits: "CRÉDITS",
                 codes: "CODES",
                 back: "RETOUR",
-                scores: "SCORES:",
                 easy: "Facile",
                 normal: "Normal",
                 hard: "Difficile",
