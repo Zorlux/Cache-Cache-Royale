@@ -1,7 +1,4 @@
 <!--Cache-Cache Royale-->
-<!--6851-->
-<!--28947361-->
-<!--73916428-->
 <!DOCTYPE html>
 <html lang="fr">
 <head>
